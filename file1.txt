@@ -1,1 +1,2 @@
 HELLO Git
+New feature added
